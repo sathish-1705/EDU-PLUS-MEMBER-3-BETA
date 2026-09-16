@@ -1,0 +1,31 @@
+{
+  "method": "POST",
+  "path": "/v1/student-readiness/analyze",
+  "purpose": "Analyze a fictional/provided student profile using the explainable baseline and skill-gap foundation.",
+  "request": {
+    "student_id": "string",
+    "cgpa": "number 0-10",
+    "attendance_percentage": "number 0-100",
+    "skills": ["string"],
+    "project_count": "integer >= 0",
+    "certification_count": "integer >= 0",
+    "internship_count": "integer >= 0",
+    "activity_count": "integer >= 0",
+    "career_goal": "one of the supported taxonomy roles"
+  },
+  "response": {
+    "student_id": "string",
+    "evidence_count": "integer 0-3",
+    "evidence_level": "limited | developing | strong",
+    "required_skills": ["string"],
+    "matched_skills": ["string"],
+    "missing_skills": ["string"],
+    "priority": "low | medium | high",
+    "recommendations": ["string"]
+  },
+  "notes": [
+    "This is an integration contract, not a production API implementation.",
+    "No predictive accuracy claim is made in Weeks 1-2.",
+    "Final request fields must match Member 2's Supabase/backend contract before integration."
+  ]
+}
