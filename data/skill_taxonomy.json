@@ -1,0 +1,7 @@
+{
+  "Data Analyst": ["Python", "SQL", "Pandas", "Power BI", "Git"],
+  "Backend Developer": ["Java", "SQL", "Spring", "Git"],
+  "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "SQL", "Git"],
+  "Machine Learning Engineer": ["Python", "Pandas", "NumPy", "SQL", "scikit-learn", "Git"],
+  "Embedded Systems Engineer": ["C", "C++", "Embedded C", "Arduino", "Git"]
+}
