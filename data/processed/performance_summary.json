@@ -4,7 +4,7 @@
   "mean_attendance": 83.05,
   "evidence_levels": {
     "strong": 15,
-    "developing": 1,
-    "limited": 4
+    "developing": 4,
+    "limited": 1
   }
 }
