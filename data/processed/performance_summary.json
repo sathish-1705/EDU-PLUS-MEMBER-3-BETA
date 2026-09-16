@@ -1,9 +1,10 @@
 {
   "student_count": 20,
-  "mean_cgpa": 8.0,
-  "mean_attendance": 83.3,
+  "mean_cgpa": 8.02,
+  "mean_attendance": 83.05,
   "evidence_levels": {
-    "strong": 17,
-    "developing": 3
+    "strong": 15,
+    "developing": 1,
+    "limited": 4
   }
 }
