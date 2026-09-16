@@ -1,0 +1,9 @@
+{
+  "student_count": 20,
+  "mean_cgpa": 8.0,
+  "mean_attendance": 83.3,
+  "evidence_levels": {
+    "strong": 17,
+    "developing": 3
+  }
+}
