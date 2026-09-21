@@ -1,21 +1,21 @@
-student_id,name,program,cgpa,attendance_percentage,skills,project_count,certification_count,internship_count,technical_indicator_count,communication_indicator,activity_count,career_goal,evidence_count,evidence_level,academic_evidence,experience_evidence,development_evidence
-STU001,Asha,IT,8.7,91,Python;SQL;Pandas;Git,3,2,1,4,4,3,Data Analyst,3,strong,True,True,True
-STU002,Bala,CSE,7.9,82,Java;SQL;Git,2,1,1,3,3,2,Backend Developer,3,strong,True,True,True
-STU003,Charan,CSE,8.9,94,HTML;CSS;JavaScript;React;Git,4,2,1,5,4,4,Full Stack Developer,3,strong,True,True,True
-STU004,Divya,IT,9.1,96,Python;Pandas;NumPy;SQL;scikit-learn;Git,5,3,2,6,5,4,Machine Learning Engineer,3,strong,True,True,True
-STU005,Elan,ECE,7.2,72,C;C++;Arduino,1,0,0,2,2,1,Embedded Systems Engineer,1,limited,False,True,True
-STU006,Fathima,CSE,8.1,85,Python;SQL;Git,2,2,1,3,4,2,Data Analyst,3,strong,True,True,True
-STU007,Gokul,IT,6.8,68,Java;SQL,1,0,0,2,2,1,Backend Developer,1,limited,False,True,True
-STU008,Hari,CSE,8.5,88,HTML;CSS;JavaScript;Node.js;SQL;Git,3,1,1,4,4,3,Full Stack Developer,3,strong,True,True,True
-STU009,Isha,IT,7.6,79,Python;NumPy;SQL,2,1,0,3,3,2,Machine Learning Engineer,3,strong,True,True,True
-STU010,Jeeva,ECE,8.0,84,C;C++;Embedded C;Arduino;Git,3,1,1,4,3,3,Embedded Systems Engineer,3,strong,True,True,True
-STU011,Kavin,CSE,9.0,92,Python;SQL;Pandas;Power BI;Git,4,2,2,5,5,4,Data Analyst,3,strong,True,True,True
-STU012,Latha,IT,7.4,77,Java;SQL;Git,1,1,0,2,3,2,Backend Developer,2,developing,False,True,True
-STU013,Manoj,CSE,8.3,86,HTML;CSS;JavaScript;React;Node.js;SQL;Git,3,2,1,5,4,3,Full Stack Developer,3,strong,True,True,True
-STU014,Nila,IT,8.8,90,Python;Pandas;NumPy;SQL;Git,4,2,1,5,4,4,Machine Learning Engineer,3,strong,True,True,True
-STU015,Omkar,ECE,7.5,80,C;Arduino;Git,2,1,1,3,3,2,Embedded Systems Engineer,3,strong,True,True,True
-STU016,Priya,CSE,8.6,89,Python;SQL;Power BI;Git,3,2,1,4,5,3,Data Analyst,3,strong,True,True,True
-STU017,Quinn,IT,7.1,74,Java;Git,1,0,0,1,2,1,Backend Developer,1,limited,False,True,True
-STU018,Ravi,CSE,8.2,83,HTML;CSS;JavaScript;React;SQL,2,1,1,4,3,2,Full Stack Developer,3,strong,True,True,True
-STU019,Sara,IT,7.8,81,Python;Pandas;SQL;scikit-learn,2,1,1,4,4,2,Machine Learning Engineer,3,strong,True,True,True
-STU020,Teja,ECE,6.9,70,C;Arduino,1,0,0,2,2,1,Embedded Systems Engineer,1,limited,False,True,True
+student_id,name,program,cgpa,attendance_percentage,skills,project_count,certification_count,internship_count,technical_indicator_count,communication_indicator,activity_count,career_goal,skill_count,evidence_count,evidence_level,academic_evidence,experience_evidence,development_evidence
+STU001,Asha,IT,8.7,91,Git;Pandas;Python;SQL,3,2,1,4,4,3,Data Analyst,4,3,strong,True,True,True
+STU002,Bala,CSE,7.9,82,Git;Java;SQL,2,1,1,3,3,2,Backend Developer,3,3,strong,True,True,True
+STU003,Charan,CSE,8.9,94,CSS;Git;HTML;JavaScript;React,4,2,1,5,4,4,Full Stack Developer,5,3,strong,True,True,True
+STU004,Divya,IT,9.1,96,Git;NumPy;Pandas;Python;scikit-learn;SQL,5,3,2,6,5,4,Machine Learning Engineer,6,3,strong,True,True,True
+STU005,Elan,ECE,7.2,72,Arduino;C;C++,1,0,0,2,2,1,Embedded Systems Engineer,3,2,developing,False,True,True
+STU006,Fathima,CSE,8.1,85,Git;Python;SQL,2,2,1,3,4,2,Data Analyst,3,3,strong,True,True,True
+STU007,Gokul,IT,6.8,68,Java;SQL,1,0,0,2,2,1,Backend Developer,2,2,developing,False,True,True
+STU008,Hari,CSE,8.5,88,CSS;Git;HTML;JavaScript;Node.js;SQL,3,1,1,4,4,3,Full Stack Developer,6,3,strong,True,True,True
+STU009,Isha,IT,7.6,79,NumPy;Python;SQL,2,1,0,3,3,2,Machine Learning Engineer,3,3,strong,True,True,True
+STU010,Jeeva,ECE,8.0,84,Arduino;C;C++;Embedded C;Git,3,1,1,4,3,3,Embedded Systems Engineer,5,3,strong,True,True,True
+STU011,Kavin,CSE,9.0,92,Git;Pandas;Power BI;Python;SQL,4,2,2,5,5,4,Data Analyst,5,3,strong,True,True,True
+STU012,Latha,IT,7.4,77,Git;Java;SQL,1,1,0,2,3,2,Backend Developer,3,2,developing,False,True,True
+STU013,Manoj,CSE,8.3,86,CSS;Git;HTML;JavaScript;Node.js;React;SQL,3,2,1,5,4,3,Full Stack Developer,7,3,strong,True,True,True
+STU014,Nila,IT,8.8,90,Git;NumPy;Pandas;Python;SQL,4,2,1,5,4,4,Machine Learning Engineer,5,3,strong,True,True,True
+STU015,Omkar,ECE,7.5,80,Arduino;C;Git,2,1,1,3,3,2,Embedded Systems Engineer,3,3,strong,True,True,True
+STU016,Priya,CSE,8.6,89,Git;Power BI;Python;SQL,3,2,1,4,5,3,Data Analyst,4,3,strong,True,True,True
+STU017,Quinn,IT,7.1,74,Git;Java,1,0,0,1,2,1,Backend Developer,2,2,developing,False,True,True
+STU018,Ravi,CSE,8.2,83,CSS;HTML;JavaScript;React;SQL,2,1,1,4,3,2,Full Stack Developer,5,3,strong,True,True,True
+STU019,Sara,IT,7.8,81,Pandas;Python;scikit-learn;SQL,2,1,1,4,4,2,Machine Learning Engineer,4,3,strong,True,True,True
+STU020,Teja,ECE,6.9,70,Arduino;C,1,0,0,2,2,1,Embedded Systems Engineer,2,2,developing,False,True,True
