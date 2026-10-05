@@ -1,7 +1,43 @@
 {
-  "Data Analyst": ["Python", "SQL", "Pandas", "Power BI", "Git"],
-  "Backend Developer": ["Java", "SQL", "Spring", "Git"],
-  "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "SQL", "Git"],
-  "Machine Learning Engineer": ["Python", "Pandas", "NumPy", "SQL", "scikit-learn", "Git"],
-  "Embedded Systems Engineer": ["C", "C++", "Embedded C", "Arduino", "Git"]
+  "Data Analyst": {
+    "Python": 2,
+    "SQL": 2,
+    "Pandas": 2,
+    "Power BI": 2,
+    "Git": 1
+  },
+
+  "Backend Developer": {
+    "Java": 2,
+    "SQL": 2,
+    "Spring": 2,
+    "Git": 1
+  },
+
+  "Full Stack Developer": {
+    "HTML": 2,
+    "CSS": 2,
+    "JavaScript": 2,
+    "React": 2,
+    "Node.js": 2,
+    "SQL": 2,
+    "Git": 1
+  },
+
+  "Machine Learning Engineer": {
+    "Python": 2,
+    "Pandas": 2,
+    "NumPy": 2,
+    "SQL": 2,
+    "scikit-learn": 2,
+    "Git": 1
+  },
+
+  "Embedded Systems Engineer": {
+    "C": 2,
+    "C++": 2,
+    "Embedded C": 2,
+    "Arduino": 2,
+    "Git": 1
+  }
 }
